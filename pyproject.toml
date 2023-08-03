@@ -1,0 +1,11 @@
+[tool.poetry]
+name = "Cemig Saúde"
+version = "0.1.0"
+description = ""
+authors = ["jjader <wedson.chaves@a3data.com.br>"]
+
+[tool.poetry.dependencies]
+python = "^3.8"
+pip = "^22.2.2"
+
+
